@@ -9,6 +9,6 @@ class Index extends \Magento\Framework\App\Action\Action
     }
     public function execute()
     {
-        echo 'Here you can test your code.'
+        echo 'Here you can test your code.';
     }
 }
