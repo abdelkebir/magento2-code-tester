@@ -1,8 +1,8 @@
 # magento2-code-tester
-Module for testing codes
+Module for testing Magento code
 
+The ideaz is simple:
 
+1. Add your code on: Controller/Index/Index.php
 
-You can test your code on: Controller/Index/Index.php
-
-View the result on YourWebsiteURL/
+2. View the result on YourWebsiteURL/codetester
